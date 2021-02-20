@@ -1,1 +1,1 @@
-# -Izkhorbek-Robotis-Dynamixel-MFC-codes
+Robotis-Dynamixel-MFC-codes
